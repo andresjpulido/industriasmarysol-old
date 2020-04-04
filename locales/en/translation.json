@@ -14,7 +14,8 @@
     "send":"Send message",
     "name":"Name",
     "message":"Message",
-    "location":"Location"
+    "location":"Location",
+    "productlist":"Nuestros productos"
 
 
 }
